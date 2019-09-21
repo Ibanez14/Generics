@@ -1,0 +1,11 @@
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Practise.Generics.B2B\bin\Debug\netcoreapp2.2\Practise.Generics.B2B.deps.json
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Practise.Generics.B2B\bin\Debug\netcoreapp2.2\Practise.Generics.B2B.runtimeconfig.json
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Practise.Generics.B2B\bin\Debug\netcoreapp2.2\Practise.Generics.B2B.runtimeconfig.dev.json
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Practise.Generics.B2B\bin\Debug\netcoreapp2.2\Practise.Generics.B2B.dll
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Practise.Generics.B2B\bin\Debug\netcoreapp2.2\Practise.Generics.B2B.pdb
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Practise.Generics.B2B\obj\Debug\netcoreapp2.2\Practise.Generics.B2B.csprojAssemblyReference.cache
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Practise.Generics.B2B\obj\Debug\netcoreapp2.2\Practise.Generics.B2B.csproj.CoreCompileInputs.cache
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Practise.Generics.B2B\obj\Debug\netcoreapp2.2\Practise.Generics.B2B.AssemblyInfoInputs.cache
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Practise.Generics.B2B\obj\Debug\netcoreapp2.2\Practise.Generics.B2B.AssemblyInfo.cs
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Practise.Generics.B2B\obj\Debug\netcoreapp2.2\Practise.Generics.B2B.dll
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Practise.Generics.B2B\obj\Debug\netcoreapp2.2\Practise.Generics.B2B.pdb
